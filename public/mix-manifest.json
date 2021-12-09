@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/resources/js/charts-bars.js": "/resources/js/charts-bars.js",
+    "/resources/js/charts-lines.js": "/resources/js/charts-lines.js",
+    "/resources/js/charts-pie.js": "/resources/js/charts-pie.js",
+    "/resources/js/focus-trap.js": "/resources/js/focus-trap.js",
+    "/resources/js/init-alpine.js": "/resources/js/init-alpine.js",
+    "/css/app.css": "/css/app.css"
+}
